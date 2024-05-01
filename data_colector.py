@@ -41,7 +41,7 @@ imgSize = 300
 whiteColorCode = 255
 
 
-directory = "Data/C"
+directory = "Data/Z"
 imgCounter = 0
 
 while True:
