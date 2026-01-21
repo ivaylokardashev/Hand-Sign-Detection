@@ -47,7 +47,7 @@ imgSize = 300
 whiteColorCode = 255
 
 
-directory = "Data/C"
+directory = "Data"
 imgCounter = 0
 
 labels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V",
