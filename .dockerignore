@@ -1,0 +1,6 @@
+venv/
+Data/
+__pycache__/
+.git/
+.vscode/
+*.h5
